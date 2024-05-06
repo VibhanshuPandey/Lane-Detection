@@ -11,7 +11,7 @@ This project implements a lane detection model using OpenCV, a popular computer 
 
 ## Prerequisites
 
-- Python 3.x
+- Python
 - OpenCV
 - NumPy
 
