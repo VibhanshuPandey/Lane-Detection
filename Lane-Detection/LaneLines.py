@@ -15,6 +15,7 @@ class LaneLines:
         parameters (dict): Dictionary containing all parameters needed for the pipeline
         debug (boolean): Flag for debug/normal mode
     """
+
     
     def __init__(self):
         """Init Lanelines.
