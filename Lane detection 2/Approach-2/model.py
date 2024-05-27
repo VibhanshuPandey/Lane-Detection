@@ -3,6 +3,7 @@ import pickle
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
 
+
 # Import necessary items from Keras
 from keras.models import Sequential
 from keras.layers import Activation, Dropout, UpSampling2D
