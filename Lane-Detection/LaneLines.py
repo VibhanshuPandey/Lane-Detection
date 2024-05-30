@@ -6,6 +6,7 @@ def hist(img):
     bottom_half = img[img.shape[0]//2:,:]
     return np.sum(bottom_half, axis=0)
 
+
 class LaneLines:
     """ Class containing information about detected lane lines.
 
