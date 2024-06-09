@@ -48,7 +48,6 @@ class CameraCalibration():
 
     def undistort(self, img):
         """ Return undistort image.
-
         Parameters:
             img (np.array): Input image
 
