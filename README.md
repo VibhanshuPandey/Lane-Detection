@@ -2,7 +2,6 @@
 
 This project implements a lane detection model using OpenCV, a popular computer vision library. The model is designed to detect lane lines on the road from video or image inputs, which can be useful for various applications such as driver assistance systems, autonomous vehicles, and road safety analysis.
 
-
 ## Features
 
 - Detects lane lines on the road from video or image inputs
